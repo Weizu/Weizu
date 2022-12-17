@@ -1,4 +1,4 @@
-# Développer Web & Expert Accessibilité
+# Développeur Web & Expert Accessibilité
 
 En tant que développeur Web passionné par les médias, les nouvelles technologies et les jeux vidéo, j'ai passé 10 ans à observer les changements du Web en tant que pierre angulaire des arts et des médias.
 
